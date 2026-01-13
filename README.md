@@ -44,5 +44,3 @@ I am a passionate software developer with a focus on building scalable web appli
 
 
 
-
-i don't like this design much in github can u change abit
