@@ -30,12 +30,12 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 📊 My GitHub Stats:
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Projinny&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Projinny&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Projinny&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Projinny&icon=4&color=0)](https://visitcount.itsvg.in)
 
 ---
 
@@ -54,3 +54,14 @@ I am a passionate software developer with a focus on building scalable web appli
     <img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/>
   </a>
 </p>
+
+
+
+
+
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
