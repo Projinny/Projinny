@@ -30,16 +30,12 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 📊 My GitHub Stats:
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
 ---
 
