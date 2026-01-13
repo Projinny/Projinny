@@ -32,7 +32,11 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 🤝 Connect with me:
-[![YouTube](https://img.shields.io/badge/YouTube-%40JinnyisPro-red?style=social&logo=youtube)](https://www.youtube.com/@JinnyisPro)
-[![Gmail](https://img.shields.io/badge/Gmail-hwaddynwe-red?style=social&logo=gmail)](mailto:hwaddynwe@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-mochiyo23-purple?style=social&logo=instagram)](https://instagram.com/mochiyo23)
-[![Telegram](https://img.shields.io/badge/Telegram-mo__chiYO-blue?style=social&logo=telegram)](https://t.me/mo_chiYO)
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.youtube.com/@JinnyisPro" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/youtube-play.png"/></a>
+<a href="mailto:hwaddynwe@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png"/></a>
+<a href="https://instagram.com/mochiyo23" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
+<a href="https://t.me/mo_chiYO" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/></a>
+</p>
