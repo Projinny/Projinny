@@ -1,4 +1,4 @@
-# Hi there, I'm [Jinny] 👋
+# Hi there, I'm Jinny 👋
 
 ### 👨‍💻 Front End Developer | UI UX Designer | Data Analysis
 
@@ -26,8 +26,8 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 📊 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Projinny]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Projinny]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Projinny&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Projinny&layout=compact&theme=radical)
 
 ---
 
