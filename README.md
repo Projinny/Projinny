@@ -1,4 +1,4 @@
-# Hi there, I'm Jinny 👋
+# Hi there, I'm [Jinny] 👋
 
 ### 👨‍💻 Front End Developer | UI UX Designer | Data Analysis
 
