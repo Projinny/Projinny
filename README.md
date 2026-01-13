@@ -1,6 +1,10 @@
-# Hi there, I'm Jinny 👋
+<h1 align="center">
+  <span style="color:#ff4da6;">Hi there, I'm Jinny</span>
+</h1>
 
-### 👨‍💻 Front End Developer | UI UX Designer | Data Analysis
+<h3 align="center">
+  Front End Developer | UI UX Designer | Data Analysis
+</h3>
 
 ---
 
@@ -27,20 +31,30 @@ I am a passionate software developer with a focus on building scalable web appli
 
 ## 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical" alt="Top Langs" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href="https://www.youtube.com/@JinnyisPro" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/youtube-play.png"/></a>
-<a href="mailto:hwaddynwe@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png"/></a>
-<a href="https://instagram.com/mochiyo23" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
-<a href="https://t.me/mo_chiYO" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/></a>
+  <a href="https://www.youtube.com/@JinnyisPro" target="_blank">
+    <img src="https://img.icons8.com/fluent/32/000000/youtube-play.png"/>
+  </a>
+  <a href="mailto:hwaddynwe@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png"/>
+  </a>
+  <a href="https://instagram.com/mochiyo23" target="_blank">
+    <img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/>
+  </a>
+  <a href="https://t.me/mo_chiYO" target="_blank">
+    <img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/>
+  </a>
 </p>
-
-
-
-
