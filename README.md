@@ -1,42 +1,67 @@
-# Hi there, I'm Jinny 👋
+# Jinny
 
-### 👨‍💻 Front End Developer | UI UX Designer | Data Analysis
+Frontend Developer • UI/UX Designer • Data Analysis Explorer  
 
----
-
-## 💫 About Me:
-I am a passionate software developer with a focus on building scalable web applications and exploring new technologies. I love contributing to open-source projects and sharing my knowledge through technical articles.
-
-- 🎓 I’m currently studying in **NCC Education**
-- 🌱 I’m currently learning **Node.js, PHP and Kotlin**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **UI/UX Design**
-- 📫 How to reach me: **hwaddynwe@gmail.com**
-- ⚡ Fun fact: **Sometimes, I put semicolon in Kotlin**
+I build interfaces that feel natural to use and systems that make sense under the hood.  
+I enjoy turning ideas into products, designs into code, and complexity into clarity.
 
 ---
 
-## 🛠 Tech Stack:
-| Category | Tools |
-| :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
-| **Backend** | Node.js, Express, PostgreSQL, MongoDB, PHP, Kotlin |
-| **Tools** | VS Code, Figma, Postman |
+## What I’m Doing Now
+- Studying at **NCC Education**
+- Learning **Node.js**, **PHP**, and **Kotlin**
+- Exploring better UI patterns and design systems
+- Looking for **open-source collaborations**
 
 ---
 
-## 📊 My GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+## My Toolbox
+
+**Design & Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Figma
+
+**Backend & Data**
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- PHP
+- Kotlin
+
+**Workflow**
+- VS Code
+- Postman
+- Git & GitHub
 
 ---
 
-## 🤝 Connect with me:
+## Philosophy
+- Simple UI beats complex features
+- Readable code is a feature
+- Good design starts with empathy
+- If it’s not maintainable, it’s not finished
+
+---
+
+## GitHub Snapshot
 <p align="left">
-<a href="https://www.youtube.com/@JinnyisPro" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/youtube-play.png"/></a>
-<a href="mailto:hwaddynwe@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png"/></a>
-<a href="https://instagram.com/mochiyo23" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/instagram-new.png"/></a>
-<a href="https://t.me/mo_chiYO" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&hide_title=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&hide_border=true" height="160" />
 </p>
+
+---
+
+## Let’s Connect
+- YouTube: https://www.youtube.com/@JinnyisPro  
+- Email: hwaddynwe@gmail.com  
+- Instagram: https://instagram.com/mochiyo23  
+- Telegram: https://t.me/mo_chiYO  
+
+---
+
+> Sometimes I put semicolons in Kotlin.  
+> Old habits from JavaScript die hard.
