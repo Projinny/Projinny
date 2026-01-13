@@ -7,10 +7,10 @@
 ## 💫 About Me:
 I am a passionate software developer with a focus on building scalable web applications and exploring new technologies. I love contributing to open-source projects and sharing my knowledge through technical articles.
 
-- 🔭 I’m currently working on **Next Step**
+- 🎓 I’m currently studying in **NCC Education**
 - 🌱 I’m currently learning **Node.js, PHP and Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **System Design**
+- 💬 Ask me about **UI/UX Design**
 - 📫 How to reach me: **hwaddynwe@gmail.com**
 - ⚡ Fun fact: **Sometimes, I put semicolon in Kotlin**
 
@@ -26,8 +26,10 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 📊 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
