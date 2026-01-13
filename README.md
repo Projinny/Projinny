@@ -11,7 +11,7 @@
 ## 💫 About Me:
 I am a passionate software developer with a focus on building scalable web applications and exploring new technologies. I love contributing to open-source projects and sharing my knowledge through technical articles.
 
-- 🎓 I’m currently studying in **NCC Education**
+- 🎓 I’m currently studying in **NCC Education level 5 Diploma in Computing**
 - 🌱 I’m currently learning **Node.js, PHP and Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **UI/UX Design**
