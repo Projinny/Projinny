@@ -26,14 +26,12 @@ I am a passionate software developer with a focus on building scalable web appli
 ---
 
 ## 📊 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Projinny&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Projinny&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=projinny&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=projinny&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Connect with me:
-### 🤝 Connect with me
-
 <p align="left">
 <a href="https://www.youtube.com/@JinnyisPro" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/youtube-play.png"/></a>
 <a href="mailto:hwaddynwe@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/32/000000/gmail--v1.png"/></a>
