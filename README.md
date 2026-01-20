@@ -52,6 +52,9 @@ I am a passionate software developer with a focus on building scalable web appli
   <a href="https://t.me/mo_chiYO" target="_blank">
     <img src="https://img.icons8.com/fluent/32/000000/telegram-app.png"/>
   </a>
+    <a href="https://discord.com/users/1350666122638393455" target="_blank">
+    <img src="https://img.icons8.com/fluent/32/000000/discord-logo.png"/>
+  </a>
 </p>
 
 
