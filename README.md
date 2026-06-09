@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Front End Developer | UI UX Designer | Data Analysis
+  Front End Developer | UI UX Designer | Data Analyst
 </h3>
 
 ---
